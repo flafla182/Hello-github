@@ -1,1 +1,3 @@
 Esse é o arquivo da aula 2!
+
+Hoje, criamos as nossas contas no GitHUb e ligamos o nosso repositório do GitHub ao nosso Git local.
